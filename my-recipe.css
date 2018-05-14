@@ -1,0 +1,6 @@
+#recipe-border {
+	margin: 25px 25px 25px 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: green;
+}
